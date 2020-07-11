@@ -1,0 +1,48 @@
+{
+    "restaurants": [{
+        "id": 1,
+        "name": "Mission Chinese Food",
+        "neighborhood": "Manhattan",
+        "photograph": "1.jpg",
+        "address": "171 E Broadway, New York, NY 10002",
+        "cuisine_type": "Asian",
+        "reviews": 1500,
+        "Currency" : "Botswana Pula(P)",
+        "Has Table booking" : "No",
+        "Has Online delivery" : "No",
+        "Aggregate rating" : 4.9,
+        "Rating color" : "Dark Green",
+        "Rating text" : "Excellent",
+        "Ranking" : 365
+    }, {
+        "id": 2,
+        "name": "Emily",
+        "neighborhood": "Brooklyn",
+        "photograph": "2.jpg",
+        "address": "919 Fulton St, Brooklyn, NY 11238",
+        "cuisine_type": "Pizza",
+        "reviews": 1000,
+        "Currency" : "Botswana Pula(P)",
+        "Has Table booking" : "No",
+        "Has Online delivery" : "No",
+        "Aggregate rating" : 4.6,
+        "Rating color" : "Dark Green",
+        "Rating text" : "Excellent",
+        "Ranking" : 200
+    }, {
+      "id": 3,
+      "name": "Kang Ho Dong Baekjeong",
+      "neighborhood": "Manhattan",
+      "photograph": "3.jpg",
+      "address": "1 E 32nd St, New York, NY 10016",
+      "cuisine_type": "Asian",
+      "reviews": 900,
+        "Currency" : "Botswana Pula(P)",
+        "Has Table booking" : "Yes",
+        "Has Online delivery" : "No",
+        "Aggregate rating" : 4,
+        "Rating color" : "Dark Green",
+        "Rating text" : "Excellent",
+        "Ranking" : 300
+    }]
+  }
